@@ -1,6 +1,6 @@
 {
     'name': 'Project Task Unique Code',
-    'version': '18.0',
+    'version': '19.0.1',
     'summary': 'Auto-generated unique code for every project task.',
     'description': """
     This module automatically generates a unique code for each project task.
